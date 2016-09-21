@@ -1,0 +1,6 @@
+C:\Users\Nikita Tolpekin\Desktop\OddEven\OddEven\bin\Debug\OddEven.exe.config
+C:\Users\Nikita Tolpekin\Desktop\OddEven\OddEven\bin\Debug\OddEven.exe
+C:\Users\Nikita Tolpekin\Desktop\OddEven\OddEven\bin\Debug\OddEven.pdb
+C:\Users\Nikita Tolpekin\Desktop\OddEven\OddEven\obj\Debug\OddEven.csprojResolveAssemblyReference.cache
+C:\Users\Nikita Tolpekin\Desktop\OddEven\OddEven\obj\Debug\OddEven.exe
+C:\Users\Nikita Tolpekin\Desktop\OddEven\OddEven\obj\Debug\OddEven.pdb
